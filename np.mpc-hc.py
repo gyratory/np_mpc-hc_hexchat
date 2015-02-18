@@ -4,7 +4,7 @@
 #* mpc.hc.np.py, snippet to display now-playing info for MPC-HC
 #* Released under the terms of MIT license
 #*
-#* https://github.com/gyratory/
+#* https://github.com/gyratory/np_mpc-hc_hexchat
 #*
 #* Copyright (C) 2013 MPC-HC Team
 #* Copyright (C) 2015 gyratory
