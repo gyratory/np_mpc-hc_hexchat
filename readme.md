@@ -12,4 +12,7 @@ If you get the message `Unknown file type np.mpc-hc.py`... see [here](https://he
 `/np` send a message to your current channel about what you are playing on MPC-HC at the moment.
 ###More
 Originally from [MPC-HC snippets](https://github.com/mpc-hc/snippets).
-Readme and filename copied from [derekxwu](https://github.com/derekxwu/hexchat.np.mpc-hc).
+
+Readme and filename adapted from [derekxwu](https://github.com/derekxwu/hexchat.np.mpc-hc).
+###License
+This script is under the MIT License.
